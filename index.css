@@ -1,0 +1,15 @@
+h1 {
+    font-family: JetBrains Mono;
+    font-weight: bolder;
+    color: white;
+    text-shadow: 0px 0px 12px rgb(168, 168, 168);
+}
+
+p {
+    font-family: JetBrains Mono;
+    font-weight:bold;
+    font-size: 30px;
+    text-align:center;
+    text-shadow: 0px 0px 8px rgb(168, 168, 168);
+    color: white;
+}
